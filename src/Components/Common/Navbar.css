@@ -1,0 +1,9 @@
+.nav-item{
+    font-weight: 600;
+}
+
+.nav-item:hover{
+   color: #29c911;
+   transition: ease 500ms;
+}
+
