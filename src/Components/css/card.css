@@ -1,0 +1,26 @@
+/* style={{marginBottom:"20px",cursor: "pointer",boxShadow: 'rgba(0, 0, 0, 0.15) 0px 5px 15px 0px'}} */
+
+.m-card{
+    margin-bottom: 20px;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+    border: none !important;
+}
+
+.m-card:hover{
+    margin-bottom: 20px;
+    cursor: pointer;
+    border: none !important;
+    box-shadow: rgba(233, 233, 233, 0.15) 0px 5px 15px 0px;
+    transition: ease 500ms;
+}
+
+.m-card .c-type{
+    color:  #29c911;
+    font-size: 14px;
+}
+
+.m-card .c-location{
+    color:  #747474;
+    font-size: 14px;
+}
